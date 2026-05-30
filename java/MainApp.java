@@ -8,7 +8,7 @@ public class MainApp {
         FileManager fileManager = new FileManager();
         Validator validator = new Validator();
 
-        printWelcome();
+        printMenu();
 
         while (true) {
             printMenu();
